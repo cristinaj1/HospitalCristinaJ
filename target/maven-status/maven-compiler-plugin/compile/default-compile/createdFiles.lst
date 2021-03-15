@@ -1,0 +1,9 @@
+hospital\Paciente.class
+hospital\Medico.class
+hospital\Empleado.class
+hospital\GestionHospital.class
+hospital\Administrativos.class
+hospital\Persona.class
+hospital\TipoAdministrativos.class
+hospital\Hospital.class
+hospital\Nif.class
